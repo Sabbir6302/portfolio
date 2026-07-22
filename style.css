@@ -1,0 +1,178 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.section-right img{
+    height: 400px;
+    width: auto;
+}
+
+.display{
+    max-width: 1280px;
+    margin: auto;
+}
+
+.common-btn{
+    background-color: #fd6e0a;
+    padding: 10px 20px;
+    border-radius: 10px ;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    border: none;
+}
+
+.common-btn2{
+    padding: 10px 20px;
+    border-radius: 10px ;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fd6e0a;
+    border-color: #fd6e0a;
+    
+}
+h2{
+    font-family: "Open Sans", sans-serif;
+}
+nav{
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+}
+
+ul li a{
+
+    text-decoration: none;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap: 30px;
+    align-items: center;
+}
+
+
+
+/* main banner */
+.main-banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f3f3f3;
+    
+}
+
+.section-left h2{
+    font-weight: bold;
+    font-size: 40px;
+    margin: 15px 0px;
+
+}
+
+.section-left-p1{
+    font-weight: 600;
+    font-size: 28px;
+
+}
+
+.section-left-p2{
+    margin-bottom: 15px;
+}
+.about-parent{
+    background-color: #f3f3f3;
+    margin: 10px auto;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    border-radius: 5px;
+    text-align: center;
+
+}
+.ab-me-s3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+    padding: 0 20px;
+}
+
+.ab-me-s3 p{
+    color: rgb(72, 71, 71);
+    
+}
+
+
+
+.info{
+    margin: 20px 0px;
+    padding: 0 20px;
+}
+
+.what-i-do-main{
+    justify-content: space-between;
+    text-align: center;
+    background-color: #f3f3f3;
+    margin: 10px auto;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+
+.div-box{
+    border: 2px solid hsl(0, 9%, 68%) ;
+    border-radius: 15px;
+    padding: 15px;
+    
+}
+
+.what-i-do-div{
+    display: flex;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    text-align: left;
+    margin: 15px;
+
+}
+
+.div-h3{
+    padding: 15px 0;
+    font-weight: bold;
+}
+
+.div-box p{
+    color: rgb(67, 67, 67);
+    
+}
+
+.contact-me-main{
+    justify-content: space-between;
+    
+    background-color: #f3f3f3;
+    margin: 10px auto;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    
+}
+
+.contact-me-main h2{
+    text-align: center;
+}
+
+.cm-1{
+    display: flex;
+    text-align: center;
+    gap: 20px;
+    align-items: center;
+    padding: 0 15px;
+}
+
+
+.cm-2{
+    padding: 20px ;
+    
+}
+
